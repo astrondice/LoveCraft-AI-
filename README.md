@@ -1,6 +1,6 @@
 <div align="center">💖 LoveCraft AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=34&pause=1200&color=FF5C8A&center=true&vCenter=true&width=1000&lines=Create+Cinematic+Love+Websites;Turn+Memories+Into+Digital+Magic;No+Coding+Required;Build+Beautiful+Love+Stories+In+Minutes" /><br><a href="https://astrondice.github.io/LoveCraftAi/">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=34&pause=1200&color=FF5C8A&center=true&vCenter=true&width=1000&lines=Create+Cinematic+Love+Websites;Turn+Memories+Into+Digital+Magic;No+Coding+Required;Build+Beautiful+Love+Stories+In+Minutes" /><br><a href="[https://astrondice.github.io/LoveCraftAi/](https://love-craft-ai.vercel.app/)">
 <img src="https://img.shields.io/badge/💖_OPEN_LOVECRAFT_AI-LIVE_DEMO-FF4D88?style=for-the-badge">
 </a><br><br>
 
