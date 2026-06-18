@@ -32,7 +32,7 @@ Transform your photos, music, videos, and memories into a fully interactive cine
 
 🚀 Open LoveCraft AI
 
-https://astrondice.github.io/LoveCraftAi/
+(https://love-craft-ai.vercel.app/)
 
 No installation required.
 
